@@ -1,4 +1,4 @@
-# Beginner-s-MLP
+# Beginner's MLP
 The most basic of the basics. A simple, but insightful toy I created.
 
 I send my sincere gratitude to Dariel Dato-on for the dataset to train my model. Dataset can be found at: https://www.kaggle.com/datasets/oddrationale/mnist-in-csv
