@@ -1,7 +1,7 @@
 # Beginner's MLP
-The most basic of the basics. A simple, but insightful toy I created.
+Simple toy for simple mind.
 
-I send my sincere gratitude to Dariel Dato-on for the dataset to train my model. Dataset can be found at: https://www.kaggle.com/datasets/oddrationale/mnist-in-csv
+Thanks Dariel Dato-on for the dataset to train my model. Dataset can be found at: https://www.kaggle.com/datasets/oddrationale/mnist-in-csv
 
 The whole project lies in the "neural network.rar" file.
 
